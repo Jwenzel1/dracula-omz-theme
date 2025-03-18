@@ -55,7 +55,7 @@ DRACULA_DISPLAY_FULL_CWD=1
 
 ### Limit Number of Displayed Directories In Prompt
 
-If you are using the [DRACULA_DISPLAY_FULL_CWD](#directory-segment) to display the full path in your prompt, you can use
+If you are using the [DRACULA_DISPLAY_FULL_CWD](#directory-segment) setting to display the full path in your prompt, you can use
 this setting to limit the number of directories that get displayed in the path. Default is 0 which displays the full path.
 
 ```sh
